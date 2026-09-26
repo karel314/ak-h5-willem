@@ -1,0 +1,1136 @@
+{
+  "vak": "Aardrijkskunde",
+  "hoofdstuk": "H5 Gewapende conflicten",
+  "methode": "buiteNLand 3 vwo",
+  "scope": "H5 (par 5.1-5.5 + Begrippen)",
+  "totaal_vragen": 77,
+  "leerdoelen": [
+    {
+      "paragraaf": "5.1",
+      "leerdoel_id": "1",
+      "leerdoel_titel": "Wapengeweld wereldwijd",
+      "uitleg_tekst": "Bij een gewapend conflict vallen bij aanhoudende strijd minstens 25 doden per jaar. De meeste conflicten zijn in sub-Sahara Afrika, Zuidoost-Azië en de islamitische wereld. Je deelt conflicten in als internationaal (tussen landen) of binnenlands (binnen één land). Een binnenlands conflict kan transnationaal worden (het gaat de grens over) of geïnternationaliseerd (andere landen mengen zich erin). Om conflicten te begrijpen moet je de begrippen staat, soevereiniteit, volk, etniciteit, territorium en natiestaat kennen. Er zijn meer dan vijfduizend volken maar slechts tweehonderd staten.",
+      "subdoelen": [
+        {
+          "subdoel_id": "1.1",
+          "subdoel_titel": "Waar gewapende conflicten voorkomen",
+          "uitleg_tekst": "Een gewapend conflict is aanhoudende strijd waarbij in totaal minstens 25 doden per jaar vallen. Het aantal gewapende conflicten is vooral hoog in sub-Sahara Afrika, in Zuidoost-Azië en in de islamitische wereld, maar ook de westerse wereld is vaak betrokken. Conflicten ontstaan waar een groep mensen macht uitoefent op een andere groep die daar niet van gediend is.",
+          "vragen": [
+            {
+              "id": 1,
+              "type": "multiple_choice",
+              "vraag": "Wanneer spreek je volgens het boek van een gewapend conflict?",
+              "opties": [
+                "Zodra een leger een ander land binnenvalt",
+                "Bij aanhoudende strijd met minstens 1000 doden per jaar",
+                "Bij aanhoudende strijd met minstens 25 doden per jaar",
+                "Als de Veiligheidsraad een conflict officieel erkent"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Een gewapend conflict is aanhoudende strijd waarbij in totaal minstens 25 doden per jaar vallen. Het gaat dus niet alleen om oorlogen tussen landen: ook strijd binnen een land telt mee."
+            },
+            {
+              "id": 2,
+              "type": "choose_all_that_apply",
+              "vraag": "In welke drie gebieden is het aantal gewapende conflicten volgens de tekst vooral hoog?",
+              "opties": [
+                "De islamitische wereld",
+                "Zuid-Amerika",
+                "Zuidoost-Azië",
+                "Sub-Sahara Afrika",
+                "Oost-Europa"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2,
+                3
+              ],
+              "uitleg": "Op de kaart van bron 7 zie je dat vooral sub-Sahara Afrika, Zuidoost-Azië en de islamitische wereld veel gewapende conflicten hebben. De westerse wereld is er wel vaak bij betrokken, bijvoorbeeld via internationale bemoeienis.",
+              "afbeelding": "images/bron7_conflicten.png"
+            },
+            {
+              "id": 3,
+              "type": "multiple_choice",
+              "vraag": "Bekijk bron 7. Welk conflict speelt volgens de kaart in Mexico?",
+              "opties": [
+                "Geweld tussen drugsbendes en met de politie",
+                "Een inval door een buurland over de grens",
+                "Een staatsgreep door het leger in 2021",
+                "Separatisme van de inheemse bevolking in het zuiden"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Bij Mexico staat op de kaart: 'Geweld tussen drugsbendes en met de politie.' De staatsgreep door het leger in 2021 hoort bij Myanmar, de inval door een buurland bij Oekraïne.",
+              "afbeelding": "images/bron7_conflicten.png"
+            },
+            {
+              "id": 4,
+              "type": "multiple_choice",
+              "vraag": "Bekijk bron 7. Welke uitleg past bij het conflict in Myanmar?",
+              "opties": [
+                "Na een inval door Rusland volgde steeds oplaaiende strijd over land",
+                "Moslimextremistische groepen verspreidden zich na oorlog met de VS",
+                "Drugsbendes vechten tegen elkaar en tegen de politie van het land",
+                "Na een legercoup kwamen gewapende groepen in opstand"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "In Myanmar pleegde het leger in 2021 een staatsgreep. Daartegen kwamen gewapende groepen in opstand en er is ook veel onderling geweld. De andere opties horen bij Oekraïne, de Sahel en Mexico.",
+              "afbeelding": "images/bron7_conflicten.png"
+            },
+            {
+              "id": 5,
+              "type": "invullen",
+              "vraag": "Conflicten ontstaan waar een groep mensen ... uitoefent op een andere groep, terwijl die andere groep daar niet van gediend is.",
+              "juiste_antwoord": "macht",
+              "uitleg": "Volgens het boek ontstaan conflicten waar een groep mensen macht uitoefent op een andere groep die dat niet wil. Denk aan achterstelling of onderdrukking van een minderheid."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.2",
+          "subdoel_titel": "Volk, staat en grenzen",
+          "uitleg_tekst": "Een staat is een gebied met eromheen een internationaal erkende grens waar eigen wetten en regels gelden. Een staat heeft recht op soevereiniteit: hij oefent zelf de macht uit en andere landen bemoeien zich niet met binnenlandse zaken. Mensen met dezelfde etniciteit (taal, geloof, geschiedenis of afkomst) vormen een volk. Het woongebied van een volk is het territorium. Voelt de bevolking van een staat zich bij elkaar horen, dan is het een natiestaat. Er zijn meer dan vijfduizend volken en slechts tweehonderd staten, dus natievorming lukt vaak niet.",
+          "vragen": [
+            {
+              "id": 6,
+              "type": "invullen",
+              "vraag": "Een groep mensen die zich bij elkaar voelt horen door taal, geloof of gemeenschappelijke geschiedenis noem je een ...",
+              "juiste_antwoord": "volk",
+              "uitleg": "Dit is de definitie van een volk (of natie). Mensen in een volk hebben dezelfde etniciteit: de identiteit van een volk, gebaseerd op cultuur en herkomst."
+            },
+            {
+              "id": 7,
+              "type": "invullen",
+              "vraag": "Het woongebied van een volk heet het ...",
+              "juiste_antwoord": "territorium",
+              "uitleg": "Territorium is het woongebied van een volk. Dat valt niet altijd samen met de grenzen van een staat: een volk kan over meerdere staten verspreid wonen, zoals de Koerden."
+            },
+            {
+              "id": 8,
+              "type": "multiple_choice",
+              "vraag": "Wat betekent soevereiniteit?",
+              "opties": [
+                "Een volk krijgt zelfbestuur over bepaalde onderwerpen in zijn gebied",
+                "Een staat oefent zelf de macht uit over zijn territorium",
+                "Een volk wil zich afscheiden en een eigen staat vormen",
+                "Een staat wordt bestuurd door één persoon of groep"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Soevereiniteit (zelfbeschikking) betekent dat een staat zelf de macht uitoefent en dat andere landen zich niet met binnenlandse zaken bemoeien. Zelfbestuur over bepaalde onderwerpen is autonomie, afscheiden is separatisme en macht bij één persoon is een dictatuur."
+            },
+            {
+              "id": 9,
+              "type": "multiple_choice",
+              "vraag": "Waarom lukt natievorming op aarde vaak niet?",
+              "opties": [
+                "Er zijn veel meer staten dan volken",
+                "Er zijn veel meer volken dan staten",
+                "Grenzen van staten liggen vast sinds 1945",
+                "Volken hebben meestal geen eigen taal"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Er zijn meer dan vijfduizend volken, maar slechts tweehonderd staten. Veel staten hebben dus meerdere volken binnen hun grenzen, en veel volken wonen verspreid over meerdere staten. Dan voelt niet de hele bevolking zich bij elkaar horen."
+            },
+            {
+              "id": 10,
+              "type": "multiple_choice",
+              "vraag": "Na de Eerste Wereldoorlog ontstond Tsjechoslowakije. In 1921 woonden er Tsjechen (51,5%), Duitsers (23,4%), Slowaken (14%) en Hongaren (6,7%). Welke situatie past hierbij?",
+              "opties": [
+                "Eén volk in één staat: een natiestaat",
+                "Eén volk verspreid over meerdere staten",
+                "Eén territorium zonder eigen staat",
+                "Eén staat met twee of meer volken"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "In Tsjechoslowakije woonden meerdere volken binnen één staat. Het was dus geen natiestaat. In 1993 scheidde Slowakije zich af, zodat de Slowaken een eigen staat kregen."
+            },
+            {
+              "id": 11,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke kenmerken kunnen volgens het boek de etniciteit van een groep bepalen?",
+              "opties": [
+                "Een gemeenschappelijke geschiedenis of afkomst",
+                "Een internationaal erkende grens",
+                "Dezelfde regering",
+                "Hetzelfde geloof",
+                "Een gemeenschappelijke taal"
+              ],
+              "juiste_antwoorden": [
+                0,
+                3,
+                4
+              ],
+              "uitleg": "Etniciteit is de identiteit van een volk, gebaseerd op cultuur en herkomst: taal, geloof, gemeenschappelijke geschiedenis of afkomst. Een erkende grens en een regering zijn kenmerken van een staat, niet van een volk."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.3",
+          "subdoel_titel": "Conflicten over grenzen heen",
+          "uitleg_tekst": "Een internationaal (interstatelijk) conflict speelt tussen landen, een binnenlands (intrastatelijk) conflict binnen één land. Gaat een binnenlands conflict de grens over, dan wordt het transnationaal (regionaal), zoals in Rwanda en het Grote Merengebied. Mengen andere landen zich erin, dan is het geïnternationaliseerd, zoals in Syrië. Volken die achtergesteld worden eisen soms onafhankelijkheid (separatisme) of een mate van zelfbestuur (autonomie). Jihadisme is de gewelddadige strijd voor een islamitische staat zonder grenzen. Geopolitiek is het gebruik van militaire, politieke of diplomatieke middelen om ruimte, invloed of macht te krijgen, zoals rond Taiwan.",
+          "vragen": [
+            {
+              "id": 12,
+              "type": "multiple_choice",
+              "vraag": "In Syrië werden in 2011 protesten neergeslagen door het leger van Assad. Daarna raakten Saudi-Arabië, de VS, Iran, Rusland en andere landen militair betrokken. Wat voor conflict werd het daardoor?",
+              "opties": [
+                "Een geïnternationaliseerd conflict",
+                "Een transnationaal conflict",
+                "Een internationaal conflict",
+                "Een conflict over autonomie en zelfbestuur"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Het conflict begon binnenlands. Door de militaire bemoeienis van andere landen werd het geïnternationaliseerd. Bij een transnationaal conflict breidt de strijd zich zelf uit naar andere landen; bij een internationaal conflict vechten landen vanaf het begin tegen elkaar."
+            },
+            {
+              "id": 13,
+              "type": "multiple_choice",
+              "vraag": "De oorlog in Rwanda destabiliseerde het hele Grote Merengebied in Afrika. Wat voor conflict is dat?",
+              "opties": [
+                "Een geïnternationaliseerd conflict",
+                "Een interstatelijk conflict",
+                "Een transnationaal conflict",
+                "Een intrastatelijk conflict"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Een binnenlands conflict dat zich naar andere landen uitbreidt, is een transnationaal of regionaal conflict. Bij een geïnternationaliseerd conflict gaat het om buitenlandse inmenging, niet om uitbreiding van de strijd zelf."
+            },
+            {
+              "id": 14,
+              "type": "invullen",
+              "vraag": "Een ander woord voor een internationaal conflict is een ... conflict.",
+              "juiste_antwoord": "interstatelijk",
+              "uitleg": "Een internationaal conflict speelt zich af tussen twee of meer landen en heet ook een interstatelijk conflict. Een binnenlands conflict heet intrastatelijk."
+            },
+            {
+              "id": 15,
+              "type": "multiple_choice",
+              "vraag": "Welk begrip past bij een volk dat alleen een zekere mate van zelfbestuur eist, zoals in Baluchistan?",
+              "opties": [
+                "Separatisme",
+                "Soevereiniteit",
+                "Autonomie",
+                "Annexatie"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Autonomie is een zekere mate van zelfbestuur over bepaalde onderwerpen. Bij separatisme wil een volk zich helemaal afscheiden. In Baluchistan vecht de BLA voor autonomie."
+            },
+            {
+              "id": 16,
+              "type": "invullen",
+              "vraag": "De gewelddadige strijd voor een islamitische staat zonder grenzen heet ...",
+              "juiste_antwoord": "jihadisme",
+              "uitleg": "Jihadisme is de gewelddadige strijd voor een islamitische staat zonder grenzen. Voor fundamentalisten is het geloof belangrijker dan etniciteit, land of familie (oemma: de wereldwijde verbinding tussen moslims)."
+            },
+            {
+              "id": 17,
+              "type": "multiple_choice",
+              "vraag": "De meeste landen erkennen Taiwan niet officieel, maar hebben er wel goede betrekkingen mee. Wat is daarvoor de belangrijkste reden volgens het boek?",
+              "opties": [
+                "Ze willen de Chinese regering niet tegen zich in het harnas jagen",
+                "Taiwan is sinds 1949 officieel een deel van de Chinese staat",
+                "Taiwan houdt geen democratische verkiezingen en is nog altijd een dictatuur",
+                "Taiwan heeft te weinig inwoners om als staat te kunnen gelden"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Dit is een geopolitieke keuze: om China niet 'in de haren te strijken' erkennen de meeste landen Taiwan niet. Tegelijk is Taiwan belangrijk, bijvoorbeeld in de chipindustrie (bron 9), dus onderhouden ze wel goede betrekkingen. Taiwan heeft sinds 1996 democratische verkiezingen."
+            },
+            {
+              "id": 18,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke uitspraken over terrorisme zijn juist?",
+              "opties": [
+                "Terrorisme gebeurt alleen tussen staten",
+                "Terrorisme heeft een politiek doel",
+                "Terrorisme is geweld om angst te zaaien",
+                "Een bomaanslag kan een vorm van terrorisme zijn"
+              ],
+              "juiste_antwoorden": [
+                1,
+                2,
+                3
+              ],
+              "uitleg": "Terrorisme is geweld om angst te zaaien met een politiek doel, bijvoorbeeld door bomaanslagen. Het speelt zich juist vaak binnen landen af. Of je opstandelingen vrijheidsstrijders of terroristen noemt, hangt ervan af voor wie je partij kiest."
+            },
+            {
+              "id": 19,
+              "type": "multiple_choice",
+              "vraag": "Wat is geopolitiek?",
+              "opties": [
+                "Het trekken van grenzen door koloniale machten na de dekolonisatie in Afrika en Azië",
+                "Het bestuderen van de natuurlijke grenzen van een land, zoals rivieren en gebergten",
+                "Het verdelen van grondstoffen tussen landen via afspraken van de Verenigde Naties",
+                "Militaire, politieke of diplomatieke middelen inzetten voor macht in een gebied"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Geopolitiek is het gebruiken van militaire, politieke of diplomatieke middelen om ruimte, invloed of macht in een gebied te krijgen. Rond Taiwan is de geopolitieke situatie gespannen door de rivaliteit tussen China en het westen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraaf": "5.2",
+      "leerdoel_id": "2",
+      "leerdoel_titel": "Oorzaken van gewapende conflicten",
+      "uitleg_tekst": "Er is nooit één oorzaak voor een gewapend conflict. Gevoelens van onmacht en onrecht over achterstelling en armoede spelen vaak mee, soms met wortels in de koloniale tijd. Grondstoffen kunnen conflicten aanjagen (paradox van de overvloed), net als een jeugdbult met veel werkloze jongeren. In arme, ongelijke gebieden werken klimaatverandering en epidemieën als multiplier. De overheid kan conflicten versterken (dictatuur, fragile state) of helpen oplossen. De Fragile States Index meet hoe kwetsbaar het bestuur is; de 'gouden regels van vrede' laten zien wat vrede bevordert.",
+      "subdoelen": [
+        {
+          "subdoel_id": "2.1",
+          "subdoel_titel": "Economische, culturele en demografische oorzaken",
+          "uitleg_tekst": "Veel conflicten wortelen in achterstelling en armoede. Koloniale overheersers trokken grenzen en bevoordeelden soms één groep, zoals de Tutsi's in Rwanda. Als in een verwaarloosd gebied een waardevolle grondstof wordt gevonden, profiteren politici en investeerders terwijl de bevolking milieuproblemen krijgt: de paradox van de overvloed (resource curse). In landen met een jeugdbult (groot aandeel 15- tot 29-jarigen) kunnen conflicten extra snel exploderen, vooral bij hoge jeugdwerkloosheid.",
+          "vragen": [
+            {
+              "id": 20,
+              "type": "multiple_choice",
+              "vraag": "Wat houdt de paradox van de overvloed in?",
+              "opties": [
+                "In een land met veel grondstoffen is de kans op gewapende conflicten kleiner",
+                "In een land met veel grondstoffen is de kans op gewapende conflicten groter",
+                "In een land met een snel groeiende bevolking ontstaan tekorten aan grondstoffen",
+                "In een land met veel voedsel ontstaat na een conflict een grote babyboom"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "De paradox van de overvloed (resource curse): in een land met veel grondstoffen is de kans op gewapende conflicten groter dan in een land zonder die rijkdommen. De bevolking ziet politici en (buitenlandse) investeerders profiteren, terwijl zij de milieuschade krijgt."
+            },
+            {
+              "id": 21,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke voorbeelden noemt het boek bij de paradox van de overvloed?",
+              "opties": [
+                "Lekkende oliepijpleidingen in Nigeria",
+                "Hoge jeugdwerkloosheid in Mali",
+                "Houtkapbedrijven in Brazilië",
+                "Goudwinning die rivieren vergiftigt in Peru"
+              ],
+              "juiste_antwoorden": [
+                0,
+                3
+              ],
+              "uitleg": "Bij de paradox van de overvloed noemt het boek de goudwinning in Peru en de lekkende oliepijpleidingen in Nigeria. De houtkap in Brazilië is een voorbeeld van een overheid die niet goed voor alle burgers zorgt; jeugdwerkloosheid hoort bij de jeugdbult."
+            },
+            {
+              "id": 22,
+              "type": "invullen",
+              "vraag": "Een bevolkingsopbouw met een groot aandeel 15- tot 29-jarigen heet een ...",
+              "juiste_antwoord": "jeugdbult",
+              "uitleg": "Een jeugdbult is een groot aandeel van 15- tot 29-jarigen in de bevolking. Vooral bij hoge werkloosheid onder jongeren kan dat leiden tot frustratie en verzet tegen de machthebbers."
+            },
+            {
+              "id": 23,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de bevolkingsgrafiek van Mali (bron 17). Waarom is de kans groot dat er over tien jaar nog altijd strijd is?",
+              "opties": [
+                "De groep 65-plussers is groot, dus er zijn weinig werkenden",
+                "De jongste leeftijdsgroepen zijn het grootst, dus de jeugdbult blijft",
+                "Er is een diepe inkeping in de grafiek, dus er vielen al veel slachtoffers",
+                "De bevolking krimpt, dus er zijn te weinig soldaten"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "De piramide van Mali heeft een zeer brede basis: de groepen 0-14 jaar zijn het grootst. Deze kinderen zijn over tien jaar 15 tot 29 jaar. De jeugdbult blijft dus bestaan, en daarmee de kans op frustratie door werkloosheid onder jongeren.",
+              "afbeelding": "images/bron17_mali.png"
+            },
+            {
+              "id": 24,
+              "type": "multiple_choice",
+              "vraag": "Hoe droeg de koloniale tijd bij aan de conflicten in Rwanda?",
+              "opties": [
+                "De Hutu's kregen overheidsbanen en er werd neergekeken op Tutsi's",
+                "Er werd goud gevonden dat alleen naar buitenlandse bedrijven ging",
+                "Er ontstond een jeugdbult door de komst van Europese kolonisten",
+                "De Tutsi's kregen overheidsbanen en er werd neergekeken op Hutu's"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Koloniale overheersers bevoordeelden in Rwanda de Tutsi's: zij kregen mooie banen bij de overheid, terwijl op de Hutu's werd neergekeken. Die achterstelling leidde tot vele conflicten, uiteindelijk ook tot de genocide van 1994."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.2",
+          "subdoel_titel": "Multipliers in kwetsbare gebieden",
+          "uitleg_tekst": "Een welvarende bevolking komt tegenslag of een ramp meestal te boven. In gebieden met armoede en grote ongelijkheid werken klimaatverandering en epidemieën als multiplier: een factor die een situatie zo verergert dat gewapende conflicten meer kans krijgen (sneeuwbaleffect). Droogte vergroot armoede en ongelijkheid; epidemieën maken mensen vatbaarder voor desinformatie en wantrouwen tegenover autoriteiten. Gewapende groepen krijgen dan meer kansen.",
+          "vragen": [
+            {
+              "id": 25,
+              "type": "invullen",
+              "vraag": "Een factor die een situatie zo verergert dat gewapende conflicten meer kans krijgen, zoals klimaatverandering, heet een ...",
+              "juiste_antwoord": "multiplier",
+              "uitleg": "Een multiplier heeft een sneeuwbaleffect: in arme, ongelijke gebieden versterkt zo'n factor de bestaande spanningen. In een welvarend land leidt dezelfde factor meestal niet tot een gewapend conflict."
+            },
+            {
+              "id": 26,
+              "type": "multiple_choice",
+              "vraag": "Waarom leidt klimaatverandering in een welvarend land meestal niet tot een gewapend conflict, maar in een arm gebied wel sneller?",
+              "opties": [
+                "Een arme bevolking heeft weinig reserves om tegenslag op te vangen",
+                "In een arm gebied is de klimaatverandering altijd veel sterker dan elders",
+                "In een welvarend land is de overheid altijd een dictatuur die ingrijpt",
+                "In een welvarend land wonen minder jongeren, dus is er geen jeugdbult"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Klimaatverandering zorgt voor onregelmatiger neerslag en langere droogte. Een arme bevolking heeft weinig reserves, dus de armoede en ongelijkheid nemen toe en de ontevredenheid groeit. Een welvarende bevolking kan de tegenslag wel opvangen."
+            },
+            {
+              "id": 27,
+              "type": "volgorde",
+              "vraag": "Zet het sneeuwbaleffect van klimaatverandering in een arm gebied in de juiste volgorde.",
+              "opties": {
+                "A": "Gewapende groepen krijgen meer kansen",
+                "B": "Langere droogte en onregelmatiger neerslag",
+                "C": "De ontevredenheid groeit",
+                "D": "Armoede en ongelijkheid nemen toe"
+              },
+              "juiste_antwoord": "1:B, 2:D, 3:C, 4:A",
+              "uitleg": "Klimaatverandering zorgt eerst voor droogte en onregelmatige neerslag. Omdat de bevolking weinig reserves heeft, nemen armoede en ongelijkheid toe. De ontevredenheid groeit, en daardoor krijgen gewapende groepen meer kansen om de macht aan te vallen."
+            },
+            {
+              "id": 28,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke gevolgen van een epidemie in een arm gebied noemt het boek?",
+              "opties": [
+                "Mensen hebben amper geld om eten te kopen",
+                "De jeugdbult verdwijnt door de vele doden",
+                "Mensen worden vatbaarder voor desinformatie en nepnieuws",
+                "Er is geen geld voor vaccins of een dokter"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2,
+                3
+              ],
+              "uitleg": "Epidemieën zoals Covid-19 en ebola treffen de armste gebieden harder. Mensen hebben amper geld voor eten en geen reserves voor vaccins of een doktersbehandeling. Ze worden vatbaarder voor desinformatie, wat kan leiden tot wantrouwen tegenover autoriteiten."
+            },
+            {
+              "id": 29,
+              "type": "multiple_choice",
+              "vraag": "In West- en Centraal-Afrika escaleren conflicten tussen herders en boeren steeds vaker, terwijl er al eeuwen lokale afspraken bestaan. Welke multiplier past hier het best bij?",
+              "opties": [
+                "De paradox van de overvloed, omdat er olie gevonden is",
+                "Een fragile state, omdat de boeren een eigen staat willen",
+                "Klimaatverandering, waardoor water en grasland schaarser worden",
+                "Een babyboom, omdat er na de strijd veel kinderen geboren zijn"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Door klimaatverandering komen er langere droogtes. Herders en boeren moeten dan om minder water en grasland strijden, waardoor oude afspraken niet meer werken. Zo werkt klimaatverandering als multiplier."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.3",
+          "subdoel_titel": "De rol van de overheid bij oorlog en vrede",
+          "uitleg_tekst": "De regering kan conflicten versterken of juist helpen oplossen. In een dictatuur (autoritair regime) ligt de macht bij één persoon of een kleine groep, zoals in Belarus. In een fragile state heeft de overheid vrijwel geen controle: corruptie, misdaad en economische chaos overheersen, zoals in Sudan. Ook in een land met stemrecht kan de overheid niet goed voor alle burgers zorgen, zoals in Brazilië. De Fragile States Index meet de kwaliteit van het bestuur. De 'acht gouden regels van vrede' laten zien wat vrede bevordert.",
+          "vragen": [
+            {
+              "id": 30,
+              "type": "multiple_choice",
+              "vraag": "Wat is een fragile state?",
+              "opties": [
+                "Een staat waar de macht bij één persoon ligt",
+                "Een staat die door een ander land bezet is",
+                "Een staat waar de overheid vrijwel geen controle heeft",
+                "Een staat die door andere landen niet internationaal erkend wordt"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Een fragile state is een fragiele, kwetsbare staat waar de overheid vrijwel geen controle heeft. Corruptie, misdaad en economische chaos overheersen, zoals in Sudan. Macht bij één persoon is een dictatuur."
+            },
+            {
+              "id": 31,
+              "type": "invullen",
+              "vraag": "Een regeringsvorm waarbij de macht bij één persoon of een kleine groep ligt, zoals in Belarus, heet een ...",
+              "juiste_antwoord": "dictatuur",
+              "uitleg": "In een dictatuur (autoritair regime) ligt de macht bij één persoon of een kleine groep. Zo'n regering kan conflicten versterken, bijvoorbeeld door oppositie en minderheden te onderdrukken."
+            },
+            {
+              "id": 32,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke punten horen bij de 'acht gouden regels van vrede' (bron 15)?",
+              "opties": [
+                "Goede relatie met de buurlanden",
+                "Een sterk leger",
+                "Persvrijheid",
+                "Eerlijke verdeling van hulpbronnen",
+                "Weinig corruptie"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2,
+                3,
+                4
+              ],
+              "uitleg": "De acht gouden regels zijn: doelmatige overheid, eerlijke verdeling van hulpbronnen, persvrijheid, goed zakenklimaat, hoog opleidingsniveau, acceptatie van de rechten van anderen, weinig corruptie en een goede relatie met de buurlanden. Een sterk leger staat er niet bij.",
+              "afbeelding": "images/bron15_gouden_regels.png"
+            },
+            {
+              "id": 33,
+              "type": "multiple_choice",
+              "vraag": "Saudi-Arabië scoort redelijk op politieke stabiliteit en afwezigheid van geweld, maar niet goed op de Fragile States Index. Hoe verklaar je dat?",
+              "opties": [
+                "Een dictatuur kan rust afdwingen, terwijl vrijheden en rechten ontbreken",
+                "Een fragile state heeft geen overheid, dus er is ook geen geweld",
+                "Door de paradox van de overvloed zijn er in olierijke landen geen conflicten",
+                "De jeugdbult zorgt ervoor dat het land snel welvarender wordt"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Saudi-Arabië is een dictatuur. Zo'n regime kan met harde hand stabiliteit afdwingen. Maar de Fragile States Index meet veel meer, zoals persvrijheid en politieoptreden. Daarop scoort een dictatuur slecht."
+            },
+            {
+              "id": 34,
+              "type": "multiple_choice",
+              "vraag": "In Brazilië heeft de bevolking stemrecht, toch noemt het boek het een voorbeeld van een overheid die conflicten kan versterken. Waarom?",
+              "opties": [
+                "De macht ligt bij één persoon die de oppositie laat opsluiten",
+                "De overheid heeft vrijwel geen controle over het eigen grondgebied",
+                "Het land is bezet door een buurland dat de grondstoffen wil hebben",
+                "Houtkapbedrijven gaan vaak vóór de oorspronkelijke bevolking"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "In Brazilië is er wel stemrecht, maar zorgt de overheid niet goed voor alle burgers: de belangen van grote houtkapbedrijven gaan vaak vóór die van de oorspronkelijke bevolking. Dat voedt gevoelens van onrecht."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraaf": "5.3",
+      "leerdoel_id": "3",
+      "leerdoel_titel": "Gevolgen van gewapende conflicten",
+      "uitleg_tekst": "Gewapende conflicten hebben sociale, economische en demografische gevolgen. Sociaal: humanitaire rampen, slechte gezondheidszorg, psychische trauma's en veel mensen op de vlucht (ontheemden en vluchtelingen). Economisch verlamt oorlog de economie, maar handelaren, wapenproducenten en de wederopbouw leveren ook geld op: de gevolgen werken twee kanten op. Demografisch: genocide, en in de bevolkingsgrafiek een inkeping (veel slachtoffers, weinig geboorten) gevolgd door een uitstulping (babyboom).",
+      "subdoelen": [
+        {
+          "subdoel_id": "3.1",
+          "subdoel_titel": "Sociale gevolgen: humanitaire rampen en vluchtelingen",
+          "uitleg_tekst": "Wrede oorlogstactieken, zoals bommen op scholen en ziekenhuizen, het tegenhouden van voedseltransporten en massaverkrachtingen, leiden tot humanitaire rampen: een bevolking kan dan langdurig onvoldoende van voedsel, behuizing en medische zorg worden voorzien. De gezondheidszorg lijdt en angst en rouw geven levenslange trauma's. In 2023 waren 117,3 miljoen mensen op de vlucht, ruim 70% meer dan vijf jaar eerder. Wie in eigen land blijft is een ontheemde, wie naar een ander land gaat een vluchteling. Minder dan 1% wordt asielzoeker in de EU.",
+          "vragen": [
+            {
+              "id": 35,
+              "type": "multiple_choice",
+              "vraag": "Wanneer spreek je van een humanitaire ramp?",
+              "opties": [
+                "Als er bij aanhoudende strijd in één jaar minstens 25 doden vallen",
+                "Als een bevolking langdurig te weinig voedsel, behuizing en zorg krijgt",
+                "Als er een poging wordt gedaan om een volk of bevolkingsgroep te vernietigen",
+                "Als meer dan de helft van de bevolking van een land naar het buitenland vlucht"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Een humanitaire ramp is de situatie waarin een bevolking langdurig onvoldoende van voedsel, behuizing en medische zorg kan worden voorzien. 25 doden per jaar is de grens voor een gewapend conflict; vernietiging van een volk is genocide."
+            },
+            {
+              "id": 36,
+              "type": "invullen",
+              "vraag": "Een vluchteling die in zijn eigen land blijft, noem je een ...",
+              "juiste_antwoord": "ontheemde",
+              "uitleg": "Een ontheemde is een vluchteling die in eigen land blijft. Wie naar een ander land gaat, heet een vluchteling. Van alle gevluchte mensen is de grootste groep ontheemd."
+            },
+            {
+              "id": 37,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke oorlogstactieken uit het boek leiden tot humanitaire rampen?",
+              "opties": [
+                "Het sturen van vredesoperaties",
+                "Massaverkrachtingen",
+                "Bommen op scholen en ziekenhuizen",
+                "Het tegenhouden van voedseltransporten"
+              ],
+              "juiste_antwoorden": [
+                1,
+                2,
+                3
+              ],
+              "uitleg": "Om een vijand op de knieën te krijgen, wordt doelbewust angst en ellende onder burgers vergroot: bommen op scholen en ziekenhuizen (Oekraïne), het tegenhouden van voedseltransporten (Gaza) en massaverkrachtingen (Sudan). Vredesoperaties zijn juist bedoeld om de vrede te herstellen."
+            },
+            {
+              "id": 38,
+              "type": "multiple_choice",
+              "vraag": "Waarom komt minder dan 1 procent van de gevluchte mensen als asielzoeker in de EU terecht?",
+              "opties": [
+                "De meesten willen niet uit hun eigen land weg",
+                "De meesten zijn te arm voor zo'n reis",
+                "De EU laat alleen ontheemden toe",
+                "De meesten zijn al terug naar huis"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Volgens het boek zijn de meeste mensen die op de vlucht zijn te arm voor de reis naar Europa. Ze blijven in eigen land (ontheemden) of gaan naar een buurland (vluchtelingen), vaak jarenlang in kampen."
+            },
+            {
+              "id": 39,
+              "type": "multiple_choice",
+              "vraag": "In 2023 waren wereldwijd 117,3 miljoen mensen op de vlucht, vijf jaar eerder 68 miljoen. Wat laat dat zien?",
+              "opties": [
+                "Het aantal mensen op de vlucht is in vijf jaar bijna verdrievoudigd",
+                "Het aantal mensen op de vlucht steeg met ruim 50 procent",
+                "Het aantal ontheemden daalde, maar vluchtelingen stegen",
+                "Het aantal mensen op de vlucht steeg met ruim 70 procent"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Van 68 naar 117,3 miljoen is een stijging van 49,3 miljoen. Dat is ruim 70 procent van 68 miljoen. Door gewapende conflicten zoeken steeds meer mensen een veilige plek om te leven."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.2",
+          "subdoel_titel": "Economische gevolgen: verlies en winst",
+          "uitleg_tekst": "Oorlog kost veel geld: geld voor wapens kan niet naar onderwijs, landbouw of wegen. Mensen vechten, vluchten of raken gewond, akkers blijven onbewerkt en fabrieken liggen stil. Toeristen en buitenlandse investeerders blijven weg en het milieu raakt vervuild. Toch verdienen sommigen eraan: conflicten worden gefinancierd met drugs, diamanten, olie en hout, wapenproducenten verdienen bij spanningen, en de wederopbouw van woningen en infrastructuur levert werk op. De economische gevolgen werken dus twee kanten op.",
+          "vragen": [
+            {
+              "id": 40,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke van deze gevolgen zijn economische schade door een gewapend conflict?",
+              "opties": [
+                "Akkers blijven onbewerkt en fabrieken liggen stil",
+                "Wapenproducenten verdienen meer geld",
+                "Geld gaat naar wapens in plaats van naar onderwijs",
+                "Toeristen en buitenlandse investeerders blijven weg"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2,
+                3
+              ],
+              "uitleg": "Oorlog verlamt de economie: werk ligt stil, toeristen en investeerders blijven weg en geld gaat naar wapens in plaats van onderwijs, landbouw of wegen. Dat wapenproducenten meer verdienen, is juist de andere kant: er wordt ook geld aan oorlog verdiend."
+            },
+            {
+              "id": 41,
+              "type": "multiple_choice",
+              "vraag": "Waarom zegt het boek dat de economische gevolgen van oorlog 'twee kanten op werken'?",
+              "opties": [
+                "De oorlog verlamt de economie, maar sommigen verdienen er juist aan",
+                "De oorlog kost geld, maar dat krijgt het land later altijd terug",
+                "Het land zelf lijdt schade, maar de buurlanden worden er juist rijker van",
+                "De landbouw stort in, maar de toeristen komen er juist op af"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Aan de ene kant verlamt oorlog de economie. Aan de andere kant verdienen handelaren (drugs, diamanten, olie, hout), wapenproducenten en bedrijven die na afloop de wederopbouw doen. Toeristen blijven juist weg."
+            },
+            {
+              "id": 42,
+              "type": "invullen",
+              "vraag": "Irak werd tussen 2001 en 2018 geteisterd door oorlog. Het herstel van woningen, wegen, bruggen en riolering na een conflict heet de ...",
+              "juiste_antwoord": "wederopbouw",
+              "uitleg": "Na een gewapende strijd wordt de schade aan woningen en infrastructuur hersteld. De kosten en de duur van de wederopbouw zijn gigantisch: voor Irak dacht men in 2018 ongeveer 88 miljard dollar nodig te hebben."
+            },
+            {
+              "id": 43,
+              "type": "multiple_choice",
+              "vraag": "Met welke handel worden volgens het boek veel gewapende conflicten gefinancierd?",
+              "opties": [
+                "Voedsel, medicijnen en kleding",
+                "Uranium, graan en koffie",
+                "Drugs, diamanten, olie en hout",
+                "Toerisme en buitenlandse hulp"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Veel gewapende conflicten worden gefinancierd door de verkoop van drugs, diamanten, olie en hout. Zo kunnen gewapende groepen doorvechten, ook als de rest van de economie stilligt."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.3",
+          "subdoel_titel": "Genocide en sporen in de bevolkingsgrafiek",
+          "uitleg_tekst": "Genocide is de vernietiging van een volk, ras, groep of cultuur, of een poging daartoe, door de leden te doden of te deporteren. Voorbeelden: de moord op meer dan een half miljoen Tutsi's in Rwanda (1994), Srebrenica en de verdrijving van de Rohingya uit Myanmar. Veel slachtoffers zie je in een bevolkingsgrafiek als een diepe inkeping. Onder de inkeping zit vaak een uitstulping: na de vrede volgt een babyboom (geboortegolf). In Cambodja stierven onder Pol Pot (1975-1979) 2 miljoen mensen, 30% van de bevolking.",
+          "vragen": [
+            {
+              "id": 44,
+              "type": "invullen",
+              "vraag": "De vernietiging van een volk, ras, groep of cultuur, of een poging daartoe, heet ...",
+              "juiste_antwoord": "genocide",
+              "uitleg": "Bij genocide wordt geprobeerd een volk of bevolkingsgroep te vernietigen, door de leden te doden of te deporteren. Voorbeelden zijn Rwanda (1994), Srebrenica en de Rohingya in Myanmar."
+            },
+            {
+              "id": 45,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke voorbeelden van genocide noemt het boek?",
+              "opties": [
+                "The Troubles in Noord-Ierland",
+                "De moord op Tutsi's door Hutu's in Rwanda",
+                "De verdrijving van de Rohingya uit Myanmar",
+                "De massamoord op Bosnische moslims in Srebrenica"
+              ],
+              "juiste_antwoorden": [
+                1,
+                2,
+                3
+              ],
+              "uitleg": "Rwanda, Srebrenica en de Rohingya zijn in het boek voorbeelden van genocide: gericht tegen één bevolkingsgroep. The Troubles in Noord-Ierland waren een gewelddadig conflict met meer dan 3500 doden, maar geen poging om een volk te vernietigen."
+            },
+            {
+              "id": 46,
+              "type": "multiple_choice",
+              "vraag": "Bekijk de bevolkingsgrafiek van Cambodja (bron 26) uit 2024. Welke leeftijdsgroep laat de slachtoffers en de lage geboortes onder Pol Pot (1975-1979) zien?",
+              "opties": [
+                "40-44 jaar",
+                "15-19 jaar",
+                "45-49 jaar",
+                "65-69 jaar"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Wie in 2024 45-49 jaar is, is geboren tussen 1975 en 1979. Die balk is duidelijk ingekeept: in die periode werden weinig kinderen geboren en stierven veel mensen. De balk 40-44 (geboren 1980-1984) is juist groot: de babyboom na het regime.",
+              "afbeelding": "images/bron26_cambodja.png"
+            },
+            {
+              "id": 47,
+              "type": "multiple_choice",
+              "vraag": "Bekijk bron 26. Waaraan zie je dat er in Cambodja na 1979 een babyboom was?",
+              "opties": [
+                "De balk 40-44 jaar is veel breder dan de balk 45-49 jaar",
+                "De balk 45-49 jaar is veel smaller dan de balk 50-54 jaar",
+                "De balken van 65 jaar en ouder zijn allemaal erg smal",
+                "De balken 0-14 jaar zijn het breedst van de grafiek"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Mensen van 40-44 jaar zijn geboren in 1980-1984, direct na het regime van Pol Pot. Die balk is een uitstulping onder de inkeping: na de vrede volgde een geboortegolf. Dat de balk 45-49 smaller is dan 50-54, gaat over de inkeping zelf, niet over de babyboom.",
+              "afbeelding": "images/bron26_cambodja.png"
+            },
+            {
+              "id": 48,
+              "type": "volgorde",
+              "vraag": "Zet deze gebeurtenissen in Cambodja in de juiste volgorde.",
+              "opties": {
+                "A": "2 miljoen mensen worden de dood ingejaagd",
+                "B": "Een diepe inkeping is zichtbaar in de grafiek van 2024",
+                "C": "Er volgt een babyboom",
+                "D": "Pol Pot komt aan de macht"
+              },
+              "juiste_antwoord": "1:D, 2:A, 3:C, 4:B",
+              "uitleg": "In 1975 kwam Pol Pot aan de macht. Tot 1979 werden 2 miljoen Cambodjanen (30%) de dood ingejaagd en werden weinig kinderen geboren. Daarna volgde de babyboom. In de grafiek van 2024 zie je nog steeds de inkeping bij 45-49 jaar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraaf": "5.4",
+      "leerdoel_id": "4",
+      "leerdoel_titel": "Hoe rustig is Europa?",
+      "uitleg_tekst": "Europa is veel groter dan de Europese Unie. Een EU-lidstaat moet onder meer een goed functionerende markteconomie, een stabiele democratie met rechtsstaat en respect voor mensenrechten en minderheden hebben. Toch zijn er in Europa minderheden die separatistisch zijn (Catalonië) of meer autonomie willen. Ernstige conflicten waren er in Noord-Ierland, Baskenland en voormalig Joegoslavië. Nu ondervindt de EU agressie van Rusland (Georgië, Oekraïne) en hybride oorlogvoering. De EU beschermt zich via de NAVO en hogere defensie-uitgaven.",
+      "subdoelen": [
+        {
+          "subdoel_id": "4.1",
+          "subdoel_titel": "Europa, de EU en minderheden",
+          "uitleg_tekst": "De oostgrens van Europa loopt door de Oeral en de Kaukasus en is niet precies duidelijk. De EU heeft lidstaten: je hoort erbij of niet. Een lidstaat moet een goed functionerende markteconomie hebben, EU-wetten naleven, een stabiele democratie met een rechtsstaat hebben, en mensenrechten respecteren en minderheden beschermen. In een rechtsstaat zijn rechters onafhankelijk, worden burgers door wetten beschermd en wordt de overheid gecontroleerd. Een minderheid is een bevolkingsgroep die minder dan 50% van de bevolking uitmaakt.",
+          "vragen": [
+            {
+              "id": 49,
+              "type": "multiple_choice",
+              "vraag": "Wat is het politieke verschil tussen Europa en de EU?",
+              "opties": [
+                "Europa is een groep lidstaten die aan eisen moet voldoen; de EU is het hele werelddeel",
+                "De EU en Europa bestaan uit dezelfde landen, maar de EU heeft een eigen leger",
+                "Europa bestaat alleen uit democratieën, de EU ook uit landen met een dictatuur",
+                "De EU is een groep lidstaten die aan eisen moet voldoen; Europa is het hele werelddeel"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Europa is een werelddeel dat veel groter is dan de EU. De EU heeft lidstaten: je hoort erbij of niet. Om lid te worden moet een land aan eisen voldoen, zoals een markteconomie, een stabiele democratie en bescherming van minderheden."
+            },
+            {
+              "id": 50,
+              "type": "choose_all_that_apply",
+              "vraag": "Aan welke eisen moet een EU-lidstaat voldoen?",
+              "opties": [
+                "Eén taal voor het hele land",
+                "Een stabiele democratie met een rechtsstaat",
+                "Een goed functionerende markteconomie",
+                "Bescherming van minderheden",
+                "Lidmaatschap van de Veiligheidsraad"
+              ],
+              "juiste_antwoorden": [
+                1,
+                2,
+                3
+              ],
+              "uitleg": "Een EU-lidstaat moet een goed functionerende markteconomie hebben, EU-wetten naleven, een stabiele democratie met een rechtsstaat hebben, en mensenrechten respecteren en minderheden beschermen. Veel EU-landen hebben meerdere talen."
+            },
+            {
+              "id": 51,
+              "type": "invullen",
+              "vraag": "Een bevolkingsgroep in een staat die minder dan 50 procent van de bevolking uitmaakt, heet een ...",
+              "juiste_antwoord": "minderheid",
+              "uitleg": "Een minderheid is een bevolkingsgroep die minder dan 50 procent van de bevolking van een staat uitmaakt. In een democratie gelden de meeste stemmen; als minderheden daarbij tekort worden gedaan, ontstaan conflicten."
+            },
+            {
+              "id": 52,
+              "type": "multiple_choice",
+              "vraag": "In Catalonië demonstreren veel mensen voor een eigen, onafhankelijk land. Welk begrip past hierbij?",
+              "opties": [
+                "Autonomie",
+                "Separatisme",
+                "Annexatie",
+                "Soevereiniteit"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Veel Catalanen willen zich afscheiden van Spanje: dat is separatisme. Andere minderheden in Europa willen alleen meer autonomie, bijvoorbeeld om zelf belastingen te innen of onderwijs in hun eigen taal te geven."
+            },
+            {
+              "id": 53,
+              "type": "multiple_choice",
+              "vraag": "Welke uitspraak over een rechtsstaat is juist?",
+              "opties": [
+                "De meerderheid mag altijd beslissen over de rechten van minderheden",
+                "Rechters zijn onafhankelijk en de overheid wordt gecontroleerd",
+                "De regering benoemt en ontslaat zelf de rechters van het land",
+                "Het leger zorgt ervoor dat iedereen zich aan de wetten houdt"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "In een rechtsstaat zijn rechters onafhankelijk, zijn burgers door wetten beschermd en wordt de overheid gecontroleerd. Juist minderheden worden beschermd, ook als de meerderheid iets anders wil."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.2",
+          "subdoel_titel": "Gewelddadige conflicten in Europa",
+          "uitleg_tekst": "In Noord-Ierland leidde onderdrukking van de katholieke minderheid tot 'The Troubles' met meer dan 3500 doden; sinds 1998 is er een vredesakkoord. De Basken, met een sterke identiteit en eigen taal, werden onder de dictatuur van Franco (1939-1975) zwaar onderdrukt; dat leidde tot gewelddadig verzet met 500 doden. Spaans Baskenland kreeg steeds meer autonomie. In Joegoslavië hield Tito de volken onder de duim; na zijn dood in 1980 braken etnische conflicten uit, met 140 000 doden tussen 1991 en 2001.",
+          "vragen": [
+            {
+              "id": 54,
+              "type": "multiple_choice",
+              "vraag": "Wat was de oorzaak van 'The Troubles' in Noord-Ierland?",
+              "opties": [
+                "De onderdrukking van de Basken tijdens de dictatuur van Franco in Spanje",
+                "De etnische spanningen die uitbraken na de dood van leider Tito in 1980",
+                "De onderdrukking van de protestantse minderheid in het katholieke zuiden van Ierland",
+                "De onderdrukking van de katholieke minderheid in het protestantse noorden"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het noorden van Ierland was in meerderheid protestant en bleef bij het Verenigd Koninkrijk. De katholieke minderheid daar werd onderdrukt, wat leidde tot 'The Troubles' met meer dan 3500 doden. Sinds 1998 is er een vredesakkoord."
+            },
+            {
+              "id": 55,
+              "type": "multiple_choice",
+              "vraag": "Hoe is het geweld in Spaans Baskenland tot een einde gekomen?",
+              "opties": [
+                "Het gebied kreeg steeds meer autonomie",
+                "Het gebied werd een onafhankelijke staat",
+                "Het gebied werd bij Frankrijk gevoegd",
+                "De VN stuurde een vredesoperatie"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Onder Franco (1939-1975) werden de Basken zwaar onderdrukt, wat leidde tot gewelddadig verzet met 500 doden. Inmiddels heeft Spaans Baskenland steeds meer autonomie gekregen en is het geweld ten einde. Het is geen onafhankelijke staat geworden."
+            },
+            {
+              "id": 56,
+              "type": "volgorde",
+              "vraag": "Zet de gebeurtenissen in voormalig Joegoslavië in de juiste volgorde.",
+              "opties": {
+                "A": "Etnische conflicten kosten 140 000 levens",
+                "B": "Tito houdt de volken onder de duim",
+                "C": "Tito overlijdt in 1980",
+                "D": "Nieuwe staten zoals Kroatië worden gevormd"
+              },
+              "juiste_antwoord": "1:B, 2:C, 3:A, 4:D",
+              "uitleg": "Tito hield de verschillende volken onder de duim, maar behandelde ze niet gelijkwaardig. Na zijn dood in 1980 braken etnische conflicten uit, die tussen 1991 en 2001 140 000 levens kostten. Met hulp van de VN werden nieuwe staten gevormd, zoals Kroatië en Bosnië en Herzegovina."
+            },
+            {
+              "id": 57,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke uitspraken over conflicten in Europa zijn juist?",
+              "opties": [
+                "In Noord-Ierland is sinds 1998 een vredesakkoord",
+                "Deze gebieden zijn nog niet helemaal rustig",
+                "Het conflict in Joegoslavië begon vóór de dood van Tito",
+                "De Basken wonen in Spanje en Frankrijk"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                3
+              ],
+              "uitleg": "Het Baskische volk leeft in Spanje en Frankrijk. In Noord-Ierland is sinds 1998 een vredesakkoord. De conflicten in Joegoslavië braken pas uit na de dood van Tito in 1980. Volgens het boek zijn deze gebieden in 2024 nog niet helemaal rustig."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.3",
+          "subdoel_titel": "Dreigingen voor de EU",
+          "uitleg_tekst": "Rusland viel Georgië (2008) en Oekraïne (vanaf 2014) aan en zegt op te komen voor Russische minderheden. De Baltische landen, met grote Russische minderheden, vrezen daarom een annexatie of invasie. Bij een hybride oorlog worden naast militaire middelen ook 'toetsenbordsoldaten' ingezet: hackers en trollen die nepnieuws verspreiden, ook vanuit China, Iran en Noord-Korea. Belarus zette migratie in als wapen aan de Poolse grens. De EU beschermt zich via de NAVO en hogere defensie-uitgaven. Binnenlands zijn er jihadisme, andere extremisten en de drugsmaffia.",
+          "vragen": [
+            {
+              "id": 58,
+              "type": "invullen",
+              "vraag": "Het bezetten van een gebied in het territorium van een andere staat heet ...",
+              "juiste_antwoord": "annexatie",
+              "uitleg": "Annexatie is het bezetten van een gebied in het territorium van een andere staat. De Baltische landen vrezen een annexatie of invasie door Rusland, omdat daar grote Russische minderheden wonen."
+            },
+            {
+              "id": 59,
+              "type": "multiple_choice",
+              "vraag": "Wat is een hybride oorlog?",
+              "opties": [
+                "Strijd tussen twee landen waarbij ook andere landen militair gaan meedoen",
+                "Strijd die begint binnen één land en zich uitbreidt naar de buurlanden",
+                "Strijd met zowel militaire middelen als informatie- en communicatietechnologie",
+                "Strijd waarbij een staat een gebied in het territorium van een andere staat bezet"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Bij een hybride oorlog worden naast militaire middelen ook 'toetsenbordsoldaten' ingezet: hackers vallen computersystemen aan en trollen verspreiden nepnieuws. Het doel is de samenleving te destabiliseren en angst te zaaien."
+            },
+            {
+              "id": 60,
+              "type": "multiple_choice",
+              "vraag": "Waarom vrezen de Baltische landen een aanval van Rusland?",
+              "opties": [
+                "Ze zijn geen lid van de EU en kunnen dus geen hulp krijgen van de NAVO",
+                "Rusland wil daar olie en gas winnen, net als bij de paradox van de overvloed",
+                "Er wonen grote Russische minderheden en Rusland zegt voor hen op te komen",
+                "Ze hebben zelf separatistische bewegingen die bij Rusland willen horen"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Rusland rechtvaardigde de aanvallen op Georgië en Oekraïne door te zeggen dat het opkomt voor Russische minderheden. Ook de Baltische landen (EU-lidstaten) hebben grote Russische minderheden, dus vreest men daar een annexatie of invasie."
+            },
+            {
+              "id": 61,
+              "type": "multiple_choice",
+              "vraag": "In 2021 stuurde Belarus bussen vol vluchtelingen naar de Poolse grens. Waarom past dit bij een hybride oorlog?",
+              "opties": [
+                "Het zet de samenleving onder druk en zaait onrust zonder militaire aanval",
+                "Het is een vredesoperatie waarbij Belarus vluchtelingen helpt",
+                "Het is een annexatie, omdat Belarus zo Pools gebied bezet",
+                "Het is een transnationaal conflict tussen Polen en de vluchtelingen"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Bij een hybride oorlog wil men de samenleving in de EU destabiliseren en angst zaaien, zonder open militaire aanval. Door migratie als wapen in te zetten, bracht Belarus Polen en de EU in een lastige positie."
+            },
+            {
+              "id": 62,
+              "type": "choose_all_that_apply",
+              "vraag": "Hoe beschermt de EU zich volgens het boek tegen dreigingen?",
+              "opties": [
+                "Door alle minderheden autonomie te geven",
+                "Door een stijgende defensiebegroting",
+                "Door lidmaatschap van de NAVO",
+                "Door burgerschapsonderwijs op scholen"
+              ],
+              "juiste_antwoorden": [
+                1,
+                2,
+                3
+              ],
+              "uitleg": "Tegen aanvallen van buitenaf beschermt de EU zich via de NAVO en een stijgende defensiebegroting. Om de democratie van binnenuit te versterken wordt op veel scholen burgerschapsonderwijs gegeven."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraaf": "5.5",
+      "leerdoel_id": "5",
+      "leerdoel_titel": "Nederland: oorlog en vrede",
+      "uitleg_tekst": "Nederland werd in 1581 onafhankelijk van het Spaanse rijk (Plakkaat van Verlatinghe) na een onafhankelijkheidsstrijd. Tegelijk was Nederland zelf koloniale bezetter van Indonesië en voerde het daar de Politionele Acties uit; pas in 1949 erkende Nederland de onafhankelijkheid, excuses kwamen in 2013. Nu doet Nederland mee aan VN-vredesoperaties (waarover de Veiligheidsraad beslist) en huisvest het in Den Haag het Internationaal Strafhof. Nederland is ook een belangrijke wapenhandelaar, met exportvergunningen alleen voor bondgenoten en landen die het humanitair oorlogsrecht respecteren.",
+      "subdoelen": [
+        {
+          "subdoel_id": "5.1",
+          "subdoel_titel": "Nederland in oorlog: Spanje en Indonesië",
+          "uitleg_tekst": "Nederland werd in 1581 onafhankelijk met het Plakkaat van Verlatinghe. Het hoorde bij het Spaanse rijk: er was geen godsdienstvrijheid en de belastingen waren hoog. In de Opstand pasten beide partijen de tactiek van de verschroeide aarde toe. Rond 1600 bereikten Nederlandse kooplieden Indonesië. Tijdens de koloniale bezetting vanaf 1816 werden opstanden telkens neergeslagen. Na de Tweede Wereldoorlog voerde Nederland de Politionele Acties uit (1945-1949). In 1949 erkende Nederland de onafhankelijkheid van Indonesië; excuses kwamen pas in 2013.",
+          "vragen": [
+            {
+              "id": 63,
+              "type": "invullen",
+              "vraag": "Een gewelddadige manier om zelfstandig te worden heet een ...",
+              "juiste_antwoord": "onafhankelijkheidsstrijd",
+              "uitleg": "Nederland heeft op twee manieren ervaring met een onafhankelijkheidsstrijd: zelf tegen Spanje (onafhankelijk in 1581) en als koloniale macht tegenover Indonesië."
+            },
+            {
+              "id": 64,
+              "type": "multiple_choice",
+              "vraag": "Waarom kwamen de Nederlanders in opstand tegen het Spaanse rijk?",
+              "opties": [
+                "Spanje wilde Nederland afsnijden van de lucratieve handel met Indonesië",
+                "Spanje voerde in Nederland de tactiek van de verschroeide aarde in",
+                "Spanje erkende de Nederlandse taal niet als officiële taal",
+                "Er was geen godsdienstvrijheid en er werden hoge belastingen geheven"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "In de tijd dat Nederland bij het Spaanse rijk hoorde, was er geen vrijheid van godsdienst en werden hoge belastingen geheven. De verschroeide aarde was een tactiek die beide partijen tíjdens de Opstand gebruikten, geen oorzaak."
+            },
+            {
+              "id": 65,
+              "type": "multiple_choice",
+              "vraag": "Wat waren de Politionele Acties?",
+              "opties": [
+                "Vredesoperaties van de Verenigde Naties waaraan Nederland militairen leverde",
+                "Geweld door Nederland in Indonesië tegen Indonesische onafhankelijkheidsstrijders",
+                "Acties van de Nederlandse politie tegen de Spaanse bezetter tijdens de Opstand",
+                "Opstanden van Indonesiërs tegen de Nederlandse koloniale bezetting na 1816"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Politionele Acties is de eufemistische naam voor het geweld van Nederland in Indonesië tussen 1945 en 1949 tegen Indonesische onafhankelijkheidsstrijders. Nederland wilde 'orde op zaken stellen', maar dat lukte niet."
+            },
+            {
+              "id": 66,
+              "type": "volgorde",
+              "vraag": "Zet deze gebeurtenissen uit de Nederlandse geschiedenis in de juiste volgorde.",
+              "opties": {
+                "A": "Het Plakkaat van Verlatinghe",
+                "B": "Nederland erkent de onafhankelijkheid van Indonesië",
+                "C": "Nederland biedt excuses aan voor het geweld in Indonesië",
+                "D": "Het begin van de Politionele Acties"
+              },
+              "juiste_antwoord": "1:A, 2:D, 3:B, 4:C",
+              "uitleg": "Het Plakkaat van Verlatinghe was in 1581. De Politionele Acties begonnen in 1945. In 1949 erkende Nederland de onafhankelijkheid van Indonesië. Excuses voor het geweld kwamen pas in 2013."
+            },
+            {
+              "id": 67,
+              "type": "invullen",
+              "vraag": "De tactiek waarbij hele dorpen en alle oogsten worden verbrand, zoals tijdens de Opstand tegen Spanje, heet de tactiek van de verschroeide ...",
+              "juiste_antwoord": "aarde",
+              "uitleg": "Bij de tactiek van de verschroeide aarde verbrandden beide partijen in de Opstand hele dorpen en oogsten. De bevolking leed verschrikkelijk en moest vluchten. In sommige oorlogen wordt deze tactiek nog steeds toegepast."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "5.2",
+          "subdoel_titel": "Vredesinspanningen: VN en Internationaal Strafhof",
+          "uitleg_tekst": "Volgens de grondwet heeft Nederland een krijgsmacht om het koninkrijk te verdedigen en het internationale recht te ondersteunen. Nederland doet mee aan vredesoperaties van de VN, om humanitaire redenen maar ook uit eigenbelang (grondstoffen, imago, militairen trainen). De Veiligheidsraad beslist over vredesmissies; China, de VS, Rusland, Frankrijk en het Verenigd Koninkrijk hebben vetorecht. In Den Haag zit het Internationaal Strafhof, dat genocide, misdaden tegen de menselijkheid en oorlogsmisdaden berecht. De VS, Rusland en China erkennen het niet.",
+          "vragen": [
+            {
+              "id": 68,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke vijf landen hebben vetorecht in de Veiligheidsraad?",
+              "opties": [
+                "China",
+                "De Verenigde Staten",
+                "Frankrijk",
+                "Duitsland",
+                "Rusland",
+                "Het Verenigd Koninkrijk"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2,
+                4,
+                5
+              ],
+              "uitleg": "China, de VS, Rusland, Frankrijk en het Verenigd Koninkrijk zijn permanente leden met vetorecht. Als een van hen tegen een voorgestelde missie is, kan die worden geblokkeerd, ook als de meerderheid voor is. Duitsland heeft geen vetorecht."
+            },
+            {
+              "id": 69,
+              "type": "multiple_choice",
+              "vraag": "Waarom kan de VN vrijwel niets doen in de oorlog in Oekraïne?",
+              "opties": [
+                "Oekraïne is geen lid van de Verenigde Naties en ook niet van de NAVO",
+                "Rusland is een permanent lid van de Veiligheidsraad met vetorecht",
+                "Het Internationaal Strafhof heeft de missie verboden",
+                "Het budget voor vredesoperaties is al helemaal op"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Als een permanent lid van de Veiligheidsraad zelf bij een conflict betrokken is, kan het met zijn vetorecht elke missie blokkeren. Dat geldt voor Rusland in Oekraïne, China bij Noord-Korea en de VS bij het Israëlisch-Palestijnse conflict."
+            },
+            {
+              "id": 70,
+              "type": "choose_all_that_apply",
+              "vraag": "Om welke redenen doet Nederland mee aan vredesoperaties?",
+              "opties": [
+                "Het imago versterken",
+                "Militairen trainen",
+                "Nieuwe koloniën verwerven",
+                "Humanitaire redenen",
+                "Toegang tot grondstoffen"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                3,
+                4
+              ],
+              "uitleg": "Nederland doet mee om humanitaire redenen, maar ook uit eigenbelang: toegang tot grondstoffen, het imago versterken en militairen trainen. Koloniën verwerven hoort daar niet bij."
+            },
+            {
+              "id": 71,
+              "type": "multiple_choice",
+              "vraag": "Welke misdaden berecht het Internationaal Strafhof in Den Haag?",
+              "opties": [
+                "Terrorisme, drugshandel en illegale wapenexport",
+                "Conflicten over grenzen tussen twee lidstaten",
+                "Corruptie van regeringen in fragile states",
+                "Genocide, misdaden tegen de menselijkheid en oorlogsmisdaden"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het Internationaal Strafhof berecht genocide, misdaden tegen de menselijkheid en oorlogsmisdaden. Er zijn 123 landen aangesloten, maar machtige landen als de VS, Rusland en China erkennen het niet."
+            },
+            {
+              "id": 72,
+              "type": "invullen",
+              "vraag": "Het onderdeel van de VN dat over vredesmissies besluit, heet de ...",
+              "juiste_antwoord": "Veiligheidsraad",
+              "uitleg": "De Veiligheidsraad beslist over vredesmissies. Het budget daarvoor was in 2023 6,1 miljard dollar, weinig vergeleken met de 2443 miljard dollar die wereldwijd aan militaire uitgaven werd besteed."
+            },
+            {
+              "id": 73,
+              "type": "multiple_choice",
+              "vraag": "Bij Srebrenica werden achtduizend mannen en jongens vermoord terwijl Dutchbat ter plaatse was. Waarom kon Dutchbat niets doen?",
+              "opties": [
+                "Het mandaat van de VN-missie liet dat niet toe",
+                "Nederland had geen militairen in Bosnië",
+                "Het Internationaal Strafhof had ingrijpen verboden",
+                "De Bosnische moslims wilden geen hulp"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Dutchbat was de Nederlandse VN-eenheid in de moslimenclave rond Srebrenica. Hun mandaat liet niet toe dat ze ingrepen. In 2023 maakte de regering de 'diepste excuses' aan de nabestaanden."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "5.3",
+          "subdoel_titel": "Nederland als wapenhandelaar",
+          "uitleg_tekst": "Nederland is wereldwijd een belangrijke wapenhandelaar. De hightechwapenindustrie exporteert vooral onderdelen, bijvoorbeeld van vliegtuigen en tanks. Voor wapenexport is een vergunning nodig, die alleen wordt verleend voor leveringen aan bondgenoten en landen die het humanitair oorlogsrecht respecteren. Dat is niet altijd makkelijk vast te stellen: over onderdelen van gevechtsvliegtuigen voor Israël werd in 2024 tot aan de Hoge Raad geprocedeerd. De handel levert Nederlandse bedrijven veel geld en werkgelegenheid op.",
+          "vragen": [
+            {
+              "id": 74,
+              "type": "multiple_choice",
+              "vraag": "Aan welke landen mag Nederland volgens de vergunningsregels wapens leveren?",
+              "opties": [
+                "Aan alle landen die lid zijn van de Verenigde Naties en de NAVO",
+                "Alleen aan landen die groen scoren op de Fragile States Index",
+                "Aan bondgenoten en landen die het humanitair oorlogsrecht respecteren",
+                "Alleen aan landen waar Nederland een vredesoperatie uitvoert"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Een exportvergunning wordt alleen verleend voor leveringen aan bondgenoten en landen die het humanitair oorlogsrecht respecteren. Toch worden er ook wapens geleverd aan Oekraïne, dat slecht scoort op de Fragile States Index."
+            },
+            {
+              "id": 75,
+              "type": "multiple_choice",
+              "vraag": "Wat exporteert de Nederlandse wapenindustrie vooral?",
+              "opties": [
+                "Complete tanks, gevechtsvliegtuigen en marineschepen",
+                "Chemische wapens en kernwapens",
+                "Onderdelen, bijvoorbeeld van vliegtuigen en tanks",
+                "Handwapens zoals geweren en munitie"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De Nederlandse hightechwapenindustrie exporteert vooral onderdelen, bijvoorbeeld van vliegtuigen en tanks. Over de levering van onderdelen van gevechtsvliegtuigen aan Israël werd in 2024 tot aan de Hoge Raad geprocedeerd."
+            },
+            {
+              "id": 76,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke economische en politieke belangen spelen mee bij Nederlandse wapenleveringen aan Oekraïne?",
+              "opties": [
+                "Oekraïne scoort goed op de Fragile States Index",
+                "Angst voor Rusland als kernmacht",
+                "Het levert Nederlandse bedrijven veel geld op",
+                "Het biedt werkgelegenheid"
+              ],
+              "juiste_antwoorden": [
+                1,
+                2,
+                3
+              ],
+              "uitleg": "Bij leveringen aan Oekraïne speelt de angst voor Rusland als kernmacht mee (politiek belang). Daarnaast levert de handel in militaire goederen Nederlandse bedrijven veel geld en werkgelegenheid op (economisch belang). Oekraïne scoort juist slecht op de Fragile States Index."
+            },
+            {
+              "id": 77,
+              "type": "multiple_choice",
+              "vraag": "Waarom is het vaak moeilijk om te beslissen of een wapenlevering is toegestaan?",
+              "opties": [
+                "Zelfverdediging moet worden afgewogen tegen de gevolgen voor burgers",
+                "De Veiligheidsraad moet elke wapenlevering van Nederland eerst goedkeuren",
+                "Het Internationaal Strafhof beslist of een land een bondgenoot van Nederland is",
+                "Nederland weet meestal niet naar welk land de onderdelen uiteindelijk gaan"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Of een land het humanitair oorlogsrecht respecteert, is niet altijd makkelijk vast te stellen. De afweging tussen het recht op zelfverdediging en de gevolgen voor de burgerbevolking blijft moeilijk. Soms moet de rechter zelfs een beslissing van de regering beoordelen."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

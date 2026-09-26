@@ -1,0 +1,134 @@
+{
+  "appId": "ak-h5-willem",
+  "title": "Aardrijkskunde H5",
+  "shortName": "AK H5",
+  "subtitle": "Gewapende conflicten",
+  "description": "Quiz app voor Aardrijkskunde H5 Gewapende conflicten - buiteNLand 3 vwo",
+  "studentName": "Willem",
+  "greeting": "Hoi Willem! Klaar om te stampen?",
+  "lang": "nl",
+  "storageKey": "ak-h5-willem-progress",
+  "theme": {
+    "primary": "#dc2626",
+    "light": "#f87171",
+    "dark": "#b91c1c",
+    "bg": "#fef2f2",
+    "bgAccent": "#fee2e2"
+  },
+  "gridColumns": 2,
+  "dataFiles": [
+    "data/vragen.json"
+  ],
+  "badges": {
+    "1": {
+      "name": "Grenswachter",
+      "emoji": "🗺️"
+    },
+    "2": {
+      "name": "Oorzakenspeurder",
+      "emoji": "🔍"
+    },
+    "3": {
+      "name": "Hulpverlener",
+      "emoji": "⛑️"
+    },
+    "4": {
+      "name": "Europakenner",
+      "emoji": "🇪🇺"
+    },
+    "5": {
+      "name": "Vredesstichter",
+      "emoji": "🕊️"
+    }
+  },
+  "correctMsgs": [
+    "Goed! Daar kan de Veiligheidsraad geen veto tegen uitspreken!",
+    "Jij kent je conflicten als een echte VN-waarnemer!",
+    "Helder als een vredesakkoord!",
+    "Top! Je bent klaar voor het proefwerk!",
+    "Scherper dan een geopoliticus!",
+    "Knap! Jij scoort 'duurzaam' op de Kennis Index!",
+    "Dat antwoord staat als een internationaal erkende grens!",
+    "De gouden regels van het leren: jij kent ze!",
+    "Geen nepnieuws, gewoon de waarheid!",
+    "Aardrijkskundeheld! Ga zo door!",
+    "Jij hebt soevereiniteit over deze stof!",
+    "Sterker dan een NAVO-bondgenootschap!",
+    "Dat was een multiplier voor je cijfer!",
+    "Het Strafhof spreekt je vrij: helemaal goed!",
+    "Jouw kennis is geen fragile state!",
+    "Geen twijfel, jij kent je stof!"
+  ],
+  "wrongMsgs": [
+    "Oeps! Dat antwoord ging de grens over.",
+    "Geen paniek, ook vredesakkoorden kosten tijd!",
+    "Foutje! Lees de uitleg en onderhandel opnieuw.",
+    "Die kennis is nog even ontheemd...",
+    "Niet getreurd, na elke strijd komt wederopbouw!",
+    "Bijna! Nog een keer oefenen en je hebt het.",
+    "Au! Maar de volgende vraag gaat beter.",
+    "Hmm, dat was meer nepnieuws dan feit.",
+    "Nog eentje oefenen en je hebt het!",
+    "Niet opgeven! Ook de VN heeft soms een tweede missie nodig.",
+    "Ach, morgen weet je het wel!",
+    "Oeps! Maar elke fout is een les.",
+    "Foutje bedankt! Lees de uitleg goed.",
+    "Geen stress, geopolitiek is ook ingewikkeld!",
+    "Dat antwoord kreeg een veto. Probeer het nog eens!",
+    "Geen paniek, de volgende vraag is jouw doorbraak!"
+  ],
+  "resultsMsgs": {
+    "perfect": [
+      "Absoluut briljant! Je bent klaar voor het proefwerk!",
+      "Perfecte score! De aardrijkskundeleraar gaat steil achterover!"
+    ],
+    "great": [
+      "Uitstekend! Je beheerst de stof als een echte geograaf!",
+      "Geweldig resultaat! Nog even de puntjes op de i."
+    ],
+    "good": [
+      "Goed bezig! Nog een paar rondes en je zit op een 10!",
+      "Prima score! Focus op de rode vragen en je bent er bijna."
+    ],
+    "okay": [
+      "Een goede start! Herhaal de zwakke leerdoelen.",
+      "Je bent op weg! Probeer de flashcards voor de moeilijke topics."
+    ],
+    "low": [
+      "Niet getreurd! Rome is ook niet in een dag gebouwd.",
+      "Dit is je startpunt. Gebruik de flashcards en probeer opnieuw!"
+    ]
+  },
+  "confettiColors": [
+    "#dc2626",
+    "#f87171",
+    "#f59e0b",
+    "#2563eb",
+    "#22c55e",
+    "#7c3aed"
+  ],
+  "uiStrings": {
+    "correct": "Goed!",
+    "wrong": "Helaas, fout!",
+    "next": "Volgende",
+    "seeResults": "Bekijk resultaten",
+    "stop": "Stoppen",
+    "confirmStop": "Wil je de quiz stoppen? Je voortgang wordt opgeslagen.",
+    "confirmReset": "Weet je zeker dat je alle voortgang wilt wissen? Dit kan niet ongedaan worden.",
+    "noProgress": "Begin met een quiz om je voortgang te zien!",
+    "selectAll": "Selecteer alle juiste antwoorden",
+    "check": "Controleer",
+    "checkOrder": "Controleer volgorde",
+    "typAnswer": "Typ je antwoord...",
+    "correctAnswer": "Juiste antwoord",
+    "correctOrder": "Juiste volgorde",
+    "answer": "Antwoord",
+    "earnedOn": "Verdiend op",
+    "typeLabels": {
+      "multiple_choice": "Meerkeuze",
+      "choose_all_that_apply": "Meerdere antwoorden",
+      "invullen": "Invullen",
+      "volgorde": "Volgorde"
+    }
+  }
+}
