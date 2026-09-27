@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'ak-h5-willem-v1';
+const CACHE_VERSION = 'ak-h5-willem-81913dd986';
 const ASSETS = [
   './',
   './index.html',
@@ -16,7 +16,7 @@ const ASSETS = [
 ];
 
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE_VERSION).then(c => c.addAll(ASSETS)));
+  e.waitUntil(caches.open(CACHE_VERSION).then(c => c.addAll(ASSETS.map(u => new Request(u, { cache: 'reload' })))));
   self.skipWaiting();
 });
 
